@@ -20,9 +20,8 @@ $user = Session::getUser();
 	<body class="background-img">
 		<?php require_once './components/navigation.php'; ?>
 		<div class="about">
-			<p>Made by Ivan Šincek.</p>
+			<p>Made by Kelompok KSI 1.</p>
 			<p>I hope you like it!</p>
-			<p>Feel free to donate ETH.</p>
 			<img src="./img/eth.jpg" alt="ETH Wallet">
 			<p class="wallet">0xbc00e800f29524AD8b0968CEBEAD4cD5C5c1f105</p>
 		</div>
